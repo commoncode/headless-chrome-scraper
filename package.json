@@ -1,0 +1,9 @@
+{
+  "name": "hc-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}
